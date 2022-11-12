@@ -1,4 +1,4 @@
-public class Sumation {
+public class Summation {
     public static void main(String[] args) {
         System.out.println("Sum of these number is:");
         int num1 = 50;

@@ -9,8 +9,8 @@ public class operator_precedent {
          */
         int b = 5 / 60 - 35 * 2;
         /*
-         * 12-70
-         * =-58
+         * 0-70
+         * =-70
          */
         System.out.println(a);
         System.out.println(b);
