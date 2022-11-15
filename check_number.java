@@ -1,4 +1,3 @@
-import java.nio.charset.MalformedInputException;
 import java.util.Scanner;
 
 public class check_number {
